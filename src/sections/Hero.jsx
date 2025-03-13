@@ -22,7 +22,7 @@ const Hero = () => {
                     <span className="waving-hand">👋</span>
                 </p>
                 <p className="hero_tag text-gray_gradient">
-                    Building reliable web apps
+                    Building Reliable Web Apps
                 </p>
             </div>
 
